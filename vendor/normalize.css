@@ -7,6 +7,9 @@
  * 1. Corrige la altura de línea en todos los navegadores.
  * 2. Impide que se ajuste el tamaño de la fuente tras los cambios de orientación en iOS.
  */
+.page {
+
+}
 
 
 html {
